@@ -1,0 +1,9 @@
+{
+    "image": "ghcr.io/lescai-teaching/vscode-docker:latest",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": ["ms-python.python"]
+      }
+    }
+}
